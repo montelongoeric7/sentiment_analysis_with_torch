@@ -1,0 +1,3 @@
+Title: Sentiment Analysis using Transformer in PyTorch
+
+This project implements a sentiment analysis model using a Transformer architecture built with PyTorch. The model classifies movie reviews from the IMDb dataset as either positive or negative. The dataset is preprocessed and fed into a Transformer model that uses positional encoding and self-attention mechanisms to capture the sentiment of the text. The focus of this project is on understanding and implementing the Transformer model for NLP tasks.
